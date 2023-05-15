@@ -1,8 +1,6 @@
-# Vefþróun sýnidæmi 
+# Sýnidæmi 👋
 
-#### 👋 í vinnslu
-
-Hér er hægt að skoða sýnidæmi nemenda í vefþróun á tölvubraut Upplýsingatæknskólans. 
+Hér er hægt að skoða verkefni nemenda í vefþróun á tölvubraut Upplýsingatæknskólans.  
 
 ### VEFÞ1VG vefgrunnur
 
@@ -10,18 +8,20 @@ Hér er hægt að skoða sýnidæmi nemenda í vefþróun á tölvubraut Upplýs
 - [Michael Jackson](https://demonemo.github.io/MichaelJackson/)
 - [Bítlarnir](https://demonemo.github.io/beatles/)
 - [Leturfræði](https://demonemo.github.io/pangram/)
+- [Tölvuleikir](https://vefgrunnur.github.io/tolvuleikir/iframe.html)
 
 
 ### VEFÞ2VH vefhönnun
 
 - [Arnar Air](https://demonemo.github.io/Arnarair/)
 - [Donation Company](https://demonemo.github.io/DonationCom/)
-- [AlgoBonus](#)
+- [AlgoBonus](https://demonemo.github.io/algobonus/)
 - [Seasport](https://demonemo.github.io/SeaSportTravel/)
+- [wizliz](https://tolvubraut.github.io/wizliz/)
 
 ### VEFÞ2VF vefforritun
 
-- []()
+- [Kvikmyndaspjallið](http://nemodemo.pythonanywhere.com/)
 
 <!--
 
@@ -33,4 +33,3 @@ Hér er hægt að skoða sýnidæmi nemenda í vefþróun á tölvubraut Upplýs
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
