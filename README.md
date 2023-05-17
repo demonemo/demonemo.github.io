@@ -4,25 +4,37 @@ Hér er hægt að skoða verkefni nemenda í vefþróun á tölvubraut Upplýsin
 
 ### 🧙 VEFÞ1VG vefgrunnur
 
+Vor 2023
+
 - [Guild Wars 2](https://demonemo.github.io/GuildWars/)
 - [Michael Jackson](https://demonemo.github.io/MichaelJackson/)
 - [Bítlarnir](https://demonemo.github.io/beatles/)
 - [Leturfræði](https://demonemo.github.io/pangram/)
+
+Eldri verkefni
+
 - [Tölvuleikir](https://vefgrunnur.github.io/tolvuleikir/iframe.html)
 
 
 ### 🌈  VEFÞ2VH vefhönnun
 
+Vor 2023
+
+- [Mac Retro](https://demonemo.github.io/MacRetro/)
+- [ORV](https://demonemo.github.io/orv/orv.html)
+- [Ring](https://demonemo.github.io/Ring/)
 - [Arnar Air](https://demonemo.github.io/Arnarair/)
 - [Donation Company](https://demonemo.github.io/DonationCom/)
-- [AlgoBonus](https://demonemo.github.io/algobonus/)
-- [Seasport](https://demonemo.github.io/SeaSportTravel/)
-- [wizliz](https://tolvubraut.github.io/wizliz/)
+- [AlgoBonus](https://vefhonnun.github.io/algobonus/home.html)
+
+Haust 2022
+
+- [I Am a Rock S&G](https://nemo-demo.github.io/)
 
 ### 👩‍💻 VEFÞ2VF vefforritun
 
+- [Fréttaveitan](http://vfrance.pythonanywhere.com/)
 - [Kvikmyndaspjallið](http://nemodemo.pythonanywhere.com/)
-
 
 ---
 
